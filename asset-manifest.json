@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/algorand-marketplace/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/algorand-marketplace/static/js/main.2ff1b9a7.chunk.js",
+    "main.js.map": "/algorand-marketplace/static/js/main.2ff1b9a7.chunk.js.map",
+    "runtime-main.js": "/algorand-marketplace/static/js/runtime-main.204645ff.js",
+    "runtime-main.js.map": "/algorand-marketplace/static/js/runtime-main.204645ff.js.map",
+    "static/css/2.905204c5.chunk.css": "/algorand-marketplace/static/css/2.905204c5.chunk.css",
+    "static/js/2.b3106e7d.chunk.js": "/algorand-marketplace/static/js/2.b3106e7d.chunk.js",
+    "static/js/2.b3106e7d.chunk.js.map": "/algorand-marketplace/static/js/2.b3106e7d.chunk.js.map",
+    "static/js/3.f410b700.chunk.js": "/algorand-marketplace/static/js/3.f410b700.chunk.js",
+    "static/js/3.f410b700.chunk.js.map": "/algorand-marketplace/static/js/3.f410b700.chunk.js.map",
+    "index.html": "/algorand-marketplace/index.html",
+    "static/css/2.905204c5.chunk.css.map": "/algorand-marketplace/static/css/2.905204c5.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/algorand-marketplace/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.b3106e7d.chunk.js.LICENSE.txt": "/algorand-marketplace/static/js/2.b3106e7d.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/algorand-marketplace/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpg": "/algorand-marketplace/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.204645ff.js",
+    "static/css/2.905204c5.chunk.css",
+    "static/js/2.b3106e7d.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.2ff1b9a7.chunk.js"
+  ]
+}
